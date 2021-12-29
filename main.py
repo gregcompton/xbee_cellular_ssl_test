@@ -1,6 +1,6 @@
 
 # TODO: Replace with the serial port where your local module is connected to.
-COMPORT = "COM6"
+COMPORT = "/dev/ttyS0"
 # TODO: Replace with the baud rate of your local module.
 BAUD_RATE = 9600
 # TODO: Replace with the phone number of the device to send the SMS to.
